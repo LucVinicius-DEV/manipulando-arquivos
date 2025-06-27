@@ -1,4 +1,4 @@
-# manipulando-arquivos# Manipulando Arquivos em Java ☕
+# Manipulando Arquivos em Java ☕
 
 Projeto desenvolvido para fins de estudo e prática da manipulação de arquivos em Java, utilizando as bibliotecas padrão da linguagem.
 
